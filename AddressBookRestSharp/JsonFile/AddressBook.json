@@ -43,17 +43,6 @@
       "ZipCode": 852963,
       "EmailId": "lm10@asd.com",
       "id": 4
-    },
-    {
-      "FirstName": "Neymarr",
-      "LastName": "jrr",
-      "PhoneNumber": 9874585876,
-      "Address": "bandra",
-      "City": "mumbai",
-      "State": "maharashra",
-      "ZipCode": 521963,
-      "EmailId": "njjr@asd.com",
-      "id": 5
     }
   ]
 }
