@@ -1,0 +1,38 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "FirstName": "Diwakar",
+      "LastName": "N",
+      "PhoneNumber": 1234567890,
+      "Address": "ambattur",
+      "City": "chennai",
+      "State": "Tn",
+      "ZipCode": 123456,
+      "EmailId": "asdf@asf.com"
+    },
+    {
+      "id": 2,
+      "FirstName": "Gayathri",
+      "LastName": "sri",
+      "PhoneNumber": 9852457890,
+      "Address": "egmore",
+      "City": "chennai",
+      "State": "Tn",
+      "ZipCode": 853456,
+      "EmailId": "qwer@asf.com"
+    },
+    {
+      "id": 3,
+      "FirstName": "Ronaldo",
+      "LastName": "Cr",
+      "PhoneNumber": 2587567890,
+      "Address": "mylapore",
+      "City": "chennai",
+      "State": "Tn",
+      "ZipCode": 668456,
+      "EmailId": "cr7@asf.com"
+    }
+   
+  ]
+}
